@@ -1,3 +1,5 @@
+# Professor version of Python script
+
 import numpy as np
 
 def do_column_addition(_col, debug=True):
